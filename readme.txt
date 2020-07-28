@@ -1,1 +1,1 @@
-This is the record aboute leetcode
+This is the record about leetcode
